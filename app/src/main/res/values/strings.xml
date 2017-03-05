@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Suvozac</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Register related -->
+    <string name="insert_email_hint">Unesite email</string>
+</resources>
